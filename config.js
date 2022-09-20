@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Biomolecular Feedback Systems',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-public_14Sep14.pdf',
 				},
 				{
 					name: 'Tom Kwong',
