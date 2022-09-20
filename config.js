@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'https://xlxs4.github.io/rss-youtube/',
 				},
 				{
-					name: 'Biomolecular Feedback Systems',
+					name: 'BFS',
 					link: 'http://www.cds.caltech.edu/~murray/books/AM08/pdf/bfs-public_14Sep14.pdf',
 				},
 				{
