@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://xlxs4.github.io/',
 				},
 				{
-					name: 'Excalidraw',
-					link: 'https://excalidraw.com/',
+					name: 'Blogs',
+					link: 'https://xlxs4.github.io/rss-blogs/',
 				},
 				{
-					name: 'Adobe Express',
-					link: 'https://www.adobe.com/express/feature/image/remove-background',
+					name: 'Excalidraw',
+					link: 'https://excalidraw.com/',
 				},
 				{
 					name: 'Gather',
