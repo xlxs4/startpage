@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Julia Search',
+			icon: 'search',
+			link: 'https://xlxs4.github.io/julia-search/',
 		},
 	],
 
